@@ -10027,6 +10027,11 @@ hr.light {
   border-radius: 10rem;
 }
 
+.btn-xl:hover {
+  background-color: black;
+  color: #228B22;
+}
+
 .page-section {
   padding: 8rem 0;
 }
